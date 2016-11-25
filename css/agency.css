@@ -30,7 +30,8 @@ a.active {
   outline: none;
 }
 a {
-  color: #fed136;
+  color: white;
+  font-family:'Oswald', sans-serif;
 }
 a:hover,
 a:focus,
@@ -768,6 +769,7 @@ ul {
    right: 0;
    position: fixed;
    top: 150px;
+   z-index: 1;
 }
 #sticky-social a {
    background: #333;
